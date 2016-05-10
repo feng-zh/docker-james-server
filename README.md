@@ -7,7 +7,7 @@ Install
 -----
 ### Simple Run
 ```
-docker run --name james-server -p 25:25 fengzhou/james-server
+docker run --name james-server -p 25:25 fengzhou/james-server:3.0-beta4
 ```
 
 ### Customize Configuration File
