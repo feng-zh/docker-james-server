@@ -1,4 +1,4 @@
-FROM java:8
+FROM java:6
 
 MAINTAINER Feng Zhou <feng.zh@gmail.com>
 
