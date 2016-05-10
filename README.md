@@ -2,7 +2,6 @@ Introduction
 -----
 This is the docker project to setup apache james server (Java Mail Server).
 
-
 Install
 -----
 ### Simple Run
